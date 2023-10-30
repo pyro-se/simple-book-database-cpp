@@ -160,7 +160,7 @@ int main(){
     do{
     Odczyt(ks);
     system("cls");
-    cout<<"---109520-Rogowski-Lukasz---"<<endl;
+    cout<<"-----------pyro-se----------"<<endl;
     cout<<"----------------------------"<<endl;
     cout<<"[1] Dodawanie ksiazki/ek do bazy."<<endl;
     cout<<"[2] Wyswietlanie bazy"<<endl;
